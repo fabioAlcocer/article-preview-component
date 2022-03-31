@@ -8,7 +8,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/preview-desktop.png)
+![](./design/desktop-preview.jpg)
 
 ### Links
 
