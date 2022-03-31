@@ -27,7 +27,7 @@ Users should be able to:
 
 ### What I learned
 
-In this project I put into practice my knowledge in vanilla JS and learned how localStorage works.
+In this project I put into practice my knowledge in Javascript Events and responsive design.
 
 ## Author
 
