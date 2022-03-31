@@ -8,11 +8,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/screenshot.png)
+![](./images/preview-desktop.png)
 
 ### Links
 
-- Live Site URL: [Link](https://to-do-app-vanilla-fas.netlify.app/)
+- Live Site URL: [Link](https://article-preview-component-fas.netlify.app/)
 
 ## My process
 
